@@ -13,8 +13,8 @@ https://documenter.getpostman.com/view/18107741/UV5f8E9M
 
 ### Currently running on Heroku:
 
-It uses WhiteNoise for static files, Gunicorn as wsgi server, Heroku Postgres as DB, Redis cloud from redislabs.com as message broker.
-
+It uses WhiteNoise for static files, Gunicorn as wsgi server, Heroku Postgres as DB.
+https://news-board-lenasharabura.herokuapp.com/
 #
 
 ## Running locally:
